@@ -1,4 +1,4 @@
-Hpw to Update Rand McNally GPS Map? 
+How to Update Rand McNally GPS Map? 
 ============================================
 
 .. toctree::
