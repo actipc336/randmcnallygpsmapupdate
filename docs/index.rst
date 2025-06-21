@@ -5,7 +5,7 @@ How to Update Rand McNally GPS Map?
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: Add a subheading (2).gif
+.. image:: https://mercedesbenzgpsupdate.readthedocs.io/en/latest/_images/update.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
